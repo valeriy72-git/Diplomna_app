@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Diplomna_app/static/css/main.abd45237.css",
+    "main.js": "/Diplomna_app/static/js/main.1ef2c6c5.js",
+    "index.html": "/Diplomna_app/index.html",
+    "main.abd45237.css.map": "/Diplomna_app/static/css/main.abd45237.css.map",
+    "main.1ef2c6c5.js.map": "/Diplomna_app/static/js/main.1ef2c6c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd45237.css",
+    "static/js/main.1ef2c6c5.js"
+  ]
+}
